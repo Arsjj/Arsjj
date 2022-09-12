@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arsen
-- 👀 I’m interested in web programmin
+- 👀 I’m interested in web programming
 - 🌱 I’m currently learning HTML/CSS, JavaScript and React 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web programming services)
 - 📫 How to reach me ...
 
 <!---
